@@ -1,4 +1,4 @@
-package vn.thehaung;
+package vn.thehaung.verticle;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
